@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "The 6N-Skeleton Zeta Function and its Log-Periodic Zero-Ladders (Part XXV)"
+authors:
+  - family-names: Chen
+    given-names: Ruqing
+    affiliation: "GUT Geoservice Inc., Montreal, Quebec, Canada"
+    email: ruqing@hotmail.com
+version: "1.0.0"
+date-released: "2026-06-07"
+license: MIT
+url: "https://github.com/Ruqing1963/6N-skeleton-zeta"
+keywords:
+  - Riemann zeta function
+  - Euler product
+  - integers coprime to 6
+  - log-periodic
+  - explicit formula
+  - Dirichlet series
+  - experimental mathematics
+  - number theory
+references:
+  - type: software
+    title: "The Quasi-Periodic Diffraction Spectrum of Twin-Pair Correlation on the 6N Skeleton (Part XXIV)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20587185
